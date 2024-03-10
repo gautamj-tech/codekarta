@@ -1,0 +1,22 @@
+[
+    {
+      "name": "A",
+      "unit_price": 50,
+      "special_price": 130,
+      "special_quantity": 3
+    },
+    {
+      "name": "B",
+      "unit_price": 30,
+      "special_price": 45,
+      "special_quantity": 2
+    },
+    {
+      "name": "C",
+      "unit_price": 20
+    },
+    {
+      "name": "D",
+      "unit_price": 15
+    }
+  ]
