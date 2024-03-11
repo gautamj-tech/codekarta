@@ -1,5 +1,4 @@
-Checkout Kata - Readme
-This document provides instructions on how to run and use the Python implementation of the checkout kata. This kata simulates a supermarket checkout system that calculates the total price of scanned items based on their individual prices and any applicable special offers.
+This kata simulates a supermarket checkout system that calculates the total price of scanned items based on their individual prices and any applicable special offers.
 
 Features:
 
@@ -25,11 +24,11 @@ JSON
     "special_quantity": 3
   },
 ]
-Use code with caution.
 Each item is defined as an object with properties like name, unit_price, special_price (optional), and special_quantity (optional).
 Execute the script:
-Bash
+```
+git clone git@github.com:gautamj-tech/codekarta.git
 python checkout.py
-Use code with caution.
+```
 This will run the script, calculate the total price based on pre-defined scan operations (currently in the script) and display the output on the console.
 
